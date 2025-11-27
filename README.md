@@ -1,7 +1,7 @@
 PSEUDOCODE: Number Guessing Game (With Loop + High/Low):
 START
 
-GENERATE a random number between 1 and 100 → call this COMPUTER_NUMBER
+GENERATE a random number between 1 and 10 → call this COMPUTER_NUMBER
 
 SET USER_GUESS to nothing (or empty)
 
